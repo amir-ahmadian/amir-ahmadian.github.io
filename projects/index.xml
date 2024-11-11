@@ -15,21 +15,21 @@
       <link>https://example.com/projects/divert/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate><author>ahmadia@kth.se (Amir M. Ahmadian)</author>
       <guid>https://example.com/projects/divert/</guid>
-      <description>A tool for verifying disjunctive security policies in database-backed application.</description>
+      <description>A tool for verifying disjunctive security policies in database-backed applications</description>
     </item>
     <item>
       <title>DynCoVer</title>
       <link>https://example.com/projects/dyncover/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate><author>ahmadia@kth.se (Amir M. Ahmadian)</author>
       <guid>https://example.com/projects/dyncover/</guid>
-      <description>A prototype tool to verify the security test of Java programs in the presence of dynamic policies</description>
+      <description>A prototype tool to verify the security of Java programs in the presence of dynamic policies</description>
     </item>
     <item>
       <title>Je</title>
       <link>https://example.com/projects/je/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate><author>ahmadia@kth.se (Amir M. Ahmadian)</author>
       <guid>https://example.com/projects/je/</guid>
-      <description>A programming language to develop secure enclave applications.</description>
+      <description>A programming model to develop secure enclave applications</description>
     </item>
   </channel>
 </rss>
