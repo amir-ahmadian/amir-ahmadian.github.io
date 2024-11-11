@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Amir M. Ahmadian&#39;s Personal Webpage</title>
+    <link>https://example.com/projects/</link>
+    <description>Recent content in Projects on Amir M. Ahmadian&#39;s Personal Webpage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>ahmadia@kth.se (Amir M. Ahmadian)</managingEditor>
+    <webMaster>ahmadia@kth.se (Amir M. Ahmadian)</webMaster>
+    <lastBuildDate>Thu, 01 Jan 1970 01:33:43 +0100</lastBuildDate>
+    <atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DiVerT</title>
+      <link>https://example.com/projects/divert/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate><author>ahmadia@kth.se (Amir M. Ahmadian)</author>
+      <guid>https://example.com/projects/divert/</guid>
+      <description>A tool for verifying disjunctive security policies in database-backed application.</description>
+    </item>
+    <item>
+      <title>DynCoVer</title>
+      <link>https://example.com/projects/dyncover/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate><author>ahmadia@kth.se (Amir M. Ahmadian)</author>
+      <guid>https://example.com/projects/dyncover/</guid>
+      <description>A prototype tool to verify the security test of Java programs in the presence of dynamic policies</description>
+    </item>
+    <item>
+      <title>Je</title>
+      <link>https://example.com/projects/je/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate><author>ahmadia@kth.se (Amir M. Ahmadian)</author>
+      <guid>https://example.com/projects/je/</guid>
+      <description>A programming language to develop secure enclave applications.</description>
+    </item>
+  </channel>
+</rss>
