@@ -22,13 +22,30 @@
     <script defer language="javascript" type="text/javascript"  src="/js/script.js"></script>
     
     
-    <link rel="stylesheet" href="/css/style.min.d7fd5474a01a43eac1554c423570560ebdb87aeaf9d3ce244ccd2c17d58eb3f7.css">
+    <link rel="stylesheet" href="/css/style.min.b44cde7f36b139b23dab0854e0c26e05ab1c7d18349dc82dd1767893c975b022.css">
 
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
     
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+    <script>
+        (function() {
+            
+            try {
+                const userTheme = localStorage.getItem("theme");
+                const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+                const theme = userTheme || (prefersDark ? "dark" : "light");
+                document.documentElement.setAttribute("data-theme", theme);
+            } 
+            catch (e) 
+            {
+                
+                document.documentElement.setAttribute("data-theme", "light");
+            }
+        })();
+    </script>
 </head>
 <body><div class="container">
     <nav class="navbar navbar-expand-md">
@@ -75,6 +92,19 @@
         </div>
     </nav>
 </div>
+
+<script>
+    (function() {
+
+        
+        var relativeAddress = window.location.pathname;
+        var linkElement = document.getElementById(relativeAddress);
+        if (linkElement != null)
+        {
+            linkElement.classList.add("current-link");
+        }
+    })();
+</script>
 <div class="container" id="data-block">
         <main>
     <div class="row justify-content-center mt-4">
@@ -94,7 +124,7 @@
         </div><footer class="footer">
     <div class="container">
         <div class="footer-text text-center">
-            <span class="fw-light text-muted small">Last updated: 31 May 2025 </span> 
+            <span class="fw-light text-muted small">Last updated: 1 Jun 2025 </span> 
         </div>
     </div>
 </footer>

@@ -6,35 +6,35 @@
     <description>Recent content in Projects on Amir M. Ahmadian&#39;s Personal Webpage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <managingEditor>ahmadia@kth.se (Amir M. Ahmadian)</managingEditor>
-    <webMaster>ahmadia@kth.se (Amir M. Ahmadian)</webMaster>
+    <managingEditor>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</managingEditor>
+    <webMaster>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</webMaster>
     <lastBuildDate>Thu, 01 Jan 1970 01:33:45 +0100</lastBuildDate>
     <atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tap4s</title>
       <link>https://example.com/projects/tap4s/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:45 +0100</pubDate><author>ahmadia@kth.se (Amir M. Ahmadian)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:45 +0100</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
       <guid>https://example.com/projects/tap4s/</guid>
       <description>A security type checker for the P4 programming language, TAP4S employs lightweight interval analysis combined with security labels to guarantee the noninterference of P4 programs, providing both soundness guarantees and practical permissiveness.</description>
     </item>
     <item>
       <title>DiVerT</title>
       <link>https://example.com/projects/divert/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate><author>ahmadia@kth.se (Amir M. Ahmadian)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
       <guid>https://example.com/projects/divert/</guid>
       <description>A prototype tool that relies on type-based dependency analysis and symbolic tuples to disjunctively track dependencies across different program execution paths and verify them against the disjunctive security policy of the underlying database.</description>
     </item>
     <item>
       <title>DynCoVer</title>
       <link>https://example.com/projects/dyncover/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate><author>ahmadia@kth.se (Amir M. Ahmadian)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
       <guid>https://example.com/projects/dyncover/</guid>
       <description>DynCoVer is a prototype tool for verifying program security under dynamic policies. It uses symbolic execution and the Z3 solver to symbolically execute Java programs and check their security against the active policy at each observable output.</description>
     </item>
     <item>
       <title>Je</title>
       <link>https://example.com/projects/je/</link>
-      <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate><author>ahmadia@kth.se (Amir M. Ahmadian)</author>
+      <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
       <guid>https://example.com/projects/je/</guid>
       <description>Je is a programming language model for developing secure enclave applications. It uses high-level abstractions to partition Java programs into enclave and non-enclave components, along with a security type system to guarantee the robustness of the enclave part.</description>
     </item>
