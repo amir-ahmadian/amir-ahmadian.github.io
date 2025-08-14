@@ -2,110 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amir M. Ahmadian&#39;s Personal Webpage</title>
-    <link>https://example.com/</link>
+    <link>https://amir-ahmadian.github.io/</link>
     <description>Recent content on Amir M. Ahmadian&#39;s Personal Webpage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</managingEditor>
     <webMaster>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</webMaster>
     <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://amir-ahmadian.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paper Acceptance in CSF 25</title>
-      <link>https://example.com/news/paper_acceptance_csf25/</link>
+      <link>https://amir-ahmadian.github.io/news/paper_acceptance_csf25/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/news/paper_acceptance_csf25/</guid>
-      <description>Our paper &amp;ldquo;&lt;a href=&#34;https://example.com/publications/csf25.pdf&#34;&gt;Securing P4 Programs by Information Flow Control&lt;/a&gt;&amp;rdquo; has been accepted at &lt;em&gt;IEEE 38th Computer Security Foundations Symposium&lt;/em&gt; (CSF 25).</description>
+      <guid>https://amir-ahmadian.github.io/news/paper_acceptance_csf25/</guid>
+      <description>Our paper &amp;ldquo;&lt;a href=&#34;https://amir-ahmadian.github.io/publications/csf25.pdf&#34;&gt;Securing P4 Programs by Information Flow Control&lt;/a&gt;&amp;rdquo; has been accepted at &lt;em&gt;IEEE 38th Computer Security Foundations Symposium&lt;/em&gt; (CSF 25).</description>
     </item>
     <item>
       <title>PhD Defence</title>
-      <link>https://example.com/news/phd_defence/</link>
+      <link>https://amir-ahmadian.github.io/news/phd_defence/</link>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/news/phd_defence/</guid>
-      <description>I have successfully defended my PhD thesis, titled &amp;ldquo;&lt;a href=&#34;https://example.com/publications/doctoral_thesis.pdf&#34;&gt;To Secure a Flow: From Specification to Enforcement of Information Flow Control&lt;/a&gt;.&amp;rdquo;</description>
+      <guid>https://amir-ahmadian.github.io/news/phd_defence/</guid>
+      <description>I have successfully defended my PhD thesis, titled &amp;ldquo;&lt;a href=&#34;https://amir-ahmadian.github.io/publications/doctoral_thesis.pdf&#34;&gt;To Secure a Flow: From Specification to Enforcement of Information Flow Control&lt;/a&gt;.&amp;rdquo;</description>
     </item>
     <item>
       <title>Paper Acceptance in CSF 24</title>
-      <link>https://example.com/news/paper_acceptance_csf24/</link>
+      <link>https://amir-ahmadian.github.io/news/paper_acceptance_csf24/</link>
       <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/news/paper_acceptance_csf24/</guid>
-      <description>Our paper &amp;ldquo;&lt;a href=&#34;https://example.com/publications/csf24.pdf&#34;&gt;Disjunctive Policies for Database-Backed Programs&lt;/a&gt;&amp;rdquo; has been accepted at &lt;em&gt;IEEE 37th Computer Security Foundations Symposium&lt;/em&gt; (CSF 24).</description>
+      <guid>https://amir-ahmadian.github.io/news/paper_acceptance_csf24/</guid>
+      <description>Our paper &amp;ldquo;&lt;a href=&#34;https://amir-ahmadian.github.io/publications/csf24.pdf&#34;&gt;Disjunctive Policies for Database-Backed Programs&lt;/a&gt;&amp;rdquo; has been accepted at &lt;em&gt;IEEE 37th Computer Security Foundations Symposium&lt;/em&gt; (CSF 24).</description>
     </item>
     <item>
       <title>Distinguished Paper Award</title>
-      <link>https://example.com/news/best_paper_eurosp22/</link>
+      <link>https://amir-ahmadian.github.io/news/best_paper_eurosp22/</link>
       <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/news/best_paper_eurosp22/</guid>
-      <description>Our paper &amp;ldquo;&lt;a href=&#34;https://example.com/publications/eurosp22.pdf&#34;&gt;Dynamic Policies Revisited&lt;/a&gt;&amp;rdquo; has received the &lt;a href=&#34;https://www.ieee-security.org/TC/EuroSP2022/accepted_and_awards.html&#34;&gt;Distinguished Paper Award&lt;/a&gt; at &lt;em&gt;IEEE 7th European Symposium on Security and Privacy&lt;/em&gt; (EuroS&amp;amp;P 2022)</description>
+      <guid>https://amir-ahmadian.github.io/news/best_paper_eurosp22/</guid>
+      <description>Our paper &amp;ldquo;&lt;a href=&#34;https://amir-ahmadian.github.io/publications/eurosp22.pdf&#34;&gt;Dynamic Policies Revisited&lt;/a&gt;&amp;rdquo; has received the &lt;a href=&#34;https://www.ieee-security.org/TC/EuroSP2022/accepted_and_awards.html&#34;&gt;Distinguished Paper Award&lt;/a&gt; at &lt;em&gt;IEEE 7th European Symposium on Security and Privacy&lt;/em&gt; (EuroS&amp;amp;P 2022)</description>
     </item>
     <item>
       <title>Paper Acceptance in EurpS&amp;P 2022</title>
-      <link>https://example.com/news/paper_acceptance_eurosp22/</link>
+      <link>https://amir-ahmadian.github.io/news/paper_acceptance_eurosp22/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/news/paper_acceptance_eurosp22/</guid>
-      <description>Our paper &amp;ldquo;&lt;a href=&#34;https://example.com/publications/eurosp22.pdf&#34;&gt;Dynamic Policies Revisited&lt;/a&gt;&amp;rdquo; has been accepted at &lt;em&gt;IEEE 7th European Symposium on Security and Privacy&lt;/em&gt; (EuroS&amp;amp;P 2022).</description>
+      <guid>https://amir-ahmadian.github.io/news/paper_acceptance_eurosp22/</guid>
+      <description>Our paper &amp;ldquo;&lt;a href=&#34;https://amir-ahmadian.github.io/publications/eurosp22.pdf&#34;&gt;Dynamic Policies Revisited&lt;/a&gt;&amp;rdquo; has been accepted at &lt;em&gt;IEEE 7th European Symposium on Security and Privacy&lt;/em&gt; (EuroS&amp;amp;P 2022).</description>
     </item>
     <item>
       <title>Paper Acceptance in SecDev 21</title>
-      <link>https://example.com/news/paper_acceptance_secdev21/</link>
+      <link>https://amir-ahmadian.github.io/news/paper_acceptance_secdev21/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/news/paper_acceptance_secdev21/</guid>
-      <description>Our paper, &amp;ldquo;&lt;a href=&#34;https://example.com/publications/secdev21.pdf&#34;&gt;Enclave-Based Secure Programming with JE&lt;/a&gt;&amp;rdquo; has been accepted at &lt;em&gt;2021 IEEE Secure Development Conference&lt;/em&gt; (SecDev 21).</description>
+      <guid>https://amir-ahmadian.github.io/news/paper_acceptance_secdev21/</guid>
+      <description>Our paper, &amp;ldquo;&lt;a href=&#34;https://amir-ahmadian.github.io/publications/secdev21.pdf&#34;&gt;Enclave-Based Secure Programming with JE&lt;/a&gt;&amp;rdquo; has been accepted at &lt;em&gt;2021 IEEE Secure Development Conference&lt;/em&gt; (SecDev 21).</description>
     </item>
     <item>
       <title>Paper Acceptance in CSF 21</title>
-      <link>https://example.com/news/paper_acceptance_csf21/</link>
+      <link>https://amir-ahmadian.github.io/news/paper_acceptance_csf21/</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/news/paper_acceptance_csf21/</guid>
-      <description>Our paper, &amp;ldquo;&lt;a href=&#34;https://example.com/publications/csf21.pdf&#34;&gt;Language Support for Secure Software Development with Enclaves&lt;/a&gt;&amp;rdquo; has been accepted at &lt;em&gt;IEEE 34th Computer Security Foundations Symposium&lt;/em&gt; (CSF 21).</description>
+      <guid>https://amir-ahmadian.github.io/news/paper_acceptance_csf21/</guid>
+      <description>Our paper, &amp;ldquo;&lt;a href=&#34;https://amir-ahmadian.github.io/publications/csf21.pdf&#34;&gt;Language Support for Secure Software Development with Enclaves&lt;/a&gt;&amp;rdquo; has been accepted at &lt;em&gt;IEEE 34th Computer Security Foundations Symposium&lt;/em&gt; (CSF 21).</description>
     </item>
     <item>
       <title>Tap4s</title>
-      <link>https://example.com/projects/tap4s/</link>
+      <link>https://amir-ahmadian.github.io/projects/tap4s/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:45 +0100</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/projects/tap4s/</guid>
+      <guid>https://amir-ahmadian.github.io/projects/tap4s/</guid>
       <description>A security type checker for the P4 programming language, TAP4S employs lightweight interval analysis combined with security labels to guarantee the noninterference of P4 programs, providing both soundness guarantees and practical permissiveness.</description>
     </item>
     <item>
       <title>DiVerT</title>
-      <link>https://example.com/projects/divert/</link>
+      <link>https://amir-ahmadian.github.io/projects/divert/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:43 +0100</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/projects/divert/</guid>
+      <guid>https://amir-ahmadian.github.io/projects/divert/</guid>
       <description>A prototype tool that relies on type-based dependency analysis and symbolic tuples to disjunctively track dependencies across different program execution paths and verify them against the disjunctive security policy of the underlying database.</description>
     </item>
     <item>
       <title>DynCoVer</title>
-      <link>https://example.com/projects/dyncover/</link>
+      <link>https://amir-ahmadian.github.io/projects/dyncover/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:42 +0100</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/projects/dyncover/</guid>
+      <guid>https://amir-ahmadian.github.io/projects/dyncover/</guid>
       <description>DynCoVer is a prototype tool for verifying program security under dynamic policies. It uses symbolic execution and the Z3 solver to symbolically execute Java programs and check their security against the active policy at each observable output.</description>
     </item>
     <item>
       <title>Je</title>
-      <link>https://example.com/projects/je/</link>
+      <link>https://amir-ahmadian.github.io/projects/je/</link>
       <pubDate>Thu, 01 Jan 1970 01:33:40 +0100</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/projects/je/</guid>
+      <guid>https://amir-ahmadian.github.io/projects/je/</guid>
       <description>Je is a programming language model for developing secure enclave applications. It uses high-level abstractions to partition Java programs into enclave and non-enclave components, along with a security type system to guarantee the robustness of the enclave part.</description>
     </item>
     <item>
       <title>Activities</title>
-      <link>https://example.com/activities/</link>
+      <link>https://amir-ahmadian.github.io/activities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/activities/</guid>
-      <description>&lt;div class=&#34;card-item&#34;&gt;&#xA;    &lt;table class=&#34;card-table&#34;&gt;&#xA;        &lt;tr&gt;&#xA;            &#xA;                &lt;td class=&#34;d-none d-lg-table-cell text-muted fw-light small card-column-year align-middle&#34;&gt;2021 - 2024&lt;/td&gt;&#xA;            &#xA;            &lt;td class=&#34;card-column-data&#34;&gt;&#xA;                &lt;p&gt;Member of the &lt;strong&gt;&lt;a href=&#34;https://www.dr.kth.se/eecs-phd-student-council/&#34;&gt;EECS PhD Council &lt;/a&gt;&lt;/strong&gt; at KTH:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Representing the Division of Theoretical Computer Science.&lt;/li&gt;&#xA;&lt;li&gt;PhD representative at the &lt;strong&gt;&lt;a href=&#34;https://intra.kth.se/en/eecs/forskarutbildning/doctoral-programmes/computer-science-1.817607&#34;&gt;Computer Science Doctoral Program Executive Council&lt;/a&gt;&lt;/strong&gt; (programråd).&lt;/li&gt;&#xA;&lt;li&gt;Student representative at the &lt;strong&gt;EECS Future Faculty&lt;/strong&gt; Committee, responsible for overseeing the faculty promotions and the recruitment of new faculty members.&lt;/li&gt;&#xA;&lt;li&gt;PhD representative at the &lt;strong&gt;Computer Science Department Management Group&lt;/strong&gt; (ledningsråd).&lt;/li&gt;&#xA;&lt;li&gt;Member of the organizing committee for the Doctoral Retreat in Computer Science (DRinCS) in 2022 and 2024.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;            &lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;    &lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;card-item&#34;&gt;&#xA;    &lt;table class=&#34;card-table&#34;&gt;&#xA;        &lt;tr&gt;&#xA;            &#xA;                &lt;td class=&#34;d-none d-lg-table-cell text-muted fw-light small card-column-year&#34;&gt;&lt;/td&gt;&#xA;            &#xA;            &lt;td class=&#34;card-column-data&#34;&gt;&#xA;                &lt;p&gt;&lt;strong&gt;Program Committee&lt;/strong&gt;:&lt;/p&gt;</description>
+      <guid>https://amir-ahmadian.github.io/activities/</guid>
+      <description>&lt;div class=&#34;card-item&#34;&gt;&#xA;    &lt;table class=&#34;card-table&#34;&gt;&#xA;        &lt;tr&gt;&#xA;            &#xA;                &lt;td class=&#34;d-none d-lg-table-cell text-muted fw-light small card-column-year&#34;&gt;&lt;/td&gt;&#xA;            &#xA;            &lt;td class=&#34;card-column-data&#34;&gt;&#xA;                &lt;strong&gt;Program Committee&lt;/strong&gt;: &lt;a href=&#34;https://plas25.github.io/&#34;&gt;PLAS 2025&lt;/a&gt;&#xA;            &lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;    &lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;card-item&#34;&gt;&#xA;    &lt;table class=&#34;card-table&#34;&gt;&#xA;        &lt;tr&gt;&#xA;            &#xA;                &lt;td class=&#34;d-none d-lg-table-cell text-muted fw-light small card-column-year&#34;&gt;&lt;/td&gt;&#xA;            &#xA;            &lt;td class=&#34;card-column-data&#34;&gt;&#xA;                &lt;strong&gt;Reviewer&lt;/strong&gt;: &lt;a href=&#34;https://link.springer.com/journal/236&#34;&gt;Acta Informatica&lt;/a&gt;&#xA;            &lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;    &lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;card-item&#34;&gt;&#xA;    &lt;table class=&#34;card-table&#34;&gt;&#xA;        &lt;tr&gt;&#xA;            &#xA;                &lt;td class=&#34;d-none d-lg-table-cell text-muted fw-light small card-column-year&#34;&gt;&lt;/td&gt;&#xA;            &#xA;            &lt;td class=&#34;card-column-data&#34;&gt;&#xA;                &lt;strong&gt;External Reviewer&lt;/strong&gt;: &lt;a href=&#34;https://www.sigsac.org/ccs/CCS2025/&#34;&gt;CCS 2025&lt;/a&gt;, &lt;a href=&#34;https://www.ieee-security.org/TC/EuroSP2025/&#34;&gt;EuroS&amp;amp;P 2025&lt;/a&gt;, &lt;a href=&#34;https://www.usenix.org/conference/usenixsecurity24&#34;&gt;USENIX Security 2024&lt;/a&gt;, &lt;a href=&#34;https://csf2024.ieee-security.org/&#34;&gt;CSF 2024&lt;/a&gt;, &lt;a href=&#34;https://www.ieee-security.org/TC/EuroSP2024/&#34;&gt;EuroS&amp;amp;P 2024&lt;/a&gt;, &lt;a href=&#34;https://www.sigsac.org/ccs/CCS2023/&#34;&gt;CCS 2023&lt;/a&gt;, &lt;a href=&#34;https://safe-things-2023.github.io/&#34;&gt;SafeThings 2023&lt;/a&gt;, &lt;a href=&#34;https://www.ieee-security.org/TC/EuroSP2023/&#34;&gt;EuroS&amp;amp;P 2023&lt;/a&gt;, &lt;a href=&#34;https://www.ieee-security.org/TC/EuroSP2022/&#34;&gt;EuroS&amp;amp;P 2022&lt;/a&gt;, &lt;a href=&#34;https://nordsec2022.ru.is/&#34;&gt;NordSec 2022&lt;/a&gt;, &lt;a href=&#34;https://www.ieee-security.org/TC/EuroSP2021/&#34;&gt;EuroS&amp;amp;P 2021&lt;/a&gt;, &lt;a href=&#34;https://events.tuni.fi/nordsec2021/&#34;&gt;NordSec 2021&lt;/a&gt;, &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76&#34;&gt;IEEE Transactions on Circuits and Systems for Video Technology&lt;/a&gt;&#xA;            &lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;    &lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;card-item&#34;&gt;&#xA;    &lt;table class=&#34;card-table&#34;&gt;&#xA;        &lt;tr&gt;&#xA;            &#xA;                &lt;td class=&#34;d-none d-lg-table-cell text-muted fw-light small card-column-year align-middle&#34;&gt;2021 - 2024&lt;/td&gt;&#xA;            &#xA;            &lt;td class=&#34;card-column-data&#34;&gt;&#xA;                &lt;p&gt;Member of the &lt;strong&gt;&lt;a href=&#34;https://www.dr.kth.se/eecs-phd-student-council/&#34;&gt;EECS PhD Council &lt;/a&gt;&lt;/strong&gt; at KTH:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>https://example.com/publications/</link>
+      <link>https://amir-ahmadian.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/publications/</guid>
+      <guid>https://amir-ahmadian.github.io/publications/</guid>
       <description></description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://example.com/teaching/</link>
+      <link>https://amir-ahmadian.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</author>
-      <guid>https://example.com/teaching/</guid>
+      <guid>https://amir-ahmadian.github.io/teaching/</guid>
       <description>&lt;p&gt;At &lt;strong&gt;KTH&lt;/strong&gt;, I was a teaching assistant in:&#xA;&#xA;    &#xA;&#xA;    &#xA;        &#xA;    &#xA;        &#xA;    &#xA;        &#xA;            &lt;section class=&#34;text-left&#34;&gt;&#xA;&#xA;                &#xA;                &lt;div class=&#34;row teaching-item&#34;&gt;&#xA;                    &lt;div class=&#34;col&#34;&gt;&#xA;                        &lt;div class=&#34;d-flex justify-content-between&#34;&gt;&#xA;                            &lt;div class=&#34;flush-left&#34;&gt;&#xA;                                &lt;a href=&#34;https://www.kth.se/student/kurser/kurs/DD2525/?l=en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Language-Based Security&lt;/a&gt; &#xA;                                &lt;i class=&#34;d-none d-sm-inline text-muted fw-light small&#34;&gt;(DD2525)&lt;/i&gt;&#xA;                            &lt;/div&gt;&#xA;                            &lt;div class=&#34;flush-right d-none d-lg-table-cell fw-light small&#34;&gt;&#xA;                                &lt;span class=&#34;fw-light text-muted teaching-years&#34;&gt;2020 - 2024&lt;/span&gt;&#xA;                            &lt;/div&gt;&#xA;                        &lt;/div&gt;&#xA;                    &lt;/div&gt;&#xA;                    &#xA;                    &lt;ul class=&#34;mt-2 mb-0 small&#34;&gt;&#xA;                        &#xA;                        &lt;li class=&#34;fw-lighter teaching-detail mt-1&#34;&gt;Developer and maintainer of the Android Security lab.&lt;/li&gt;&#xA;                        &#xA;                        &lt;li class=&#34;fw-lighter teaching-detail mt-1&#34;&gt;Challenge developer for the course&amp;#39;s CTF competition&lt;/li&gt;&#xA;                        &#xA;                    &lt;/ul&gt;&#xA;                    &#xA;                &lt;/div&gt;&#xA;                &#xA;                &lt;div class=&#34;row teaching-item&#34;&gt;&#xA;                    &lt;div class=&#34;col&#34;&gt;&#xA;                        &lt;div class=&#34;d-flex justify-content-between&#34;&gt;&#xA;                            &lt;div class=&#34;flush-left&#34;&gt;&#xA;                                &lt;a href=&#34;https://www.kth.se/student/kurser/kurs/DD2395/?l=en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Computer Security&lt;/a&gt; &#xA;                                &lt;i class=&#34;d-none d-sm-inline text-muted fw-light small&#34;&gt;(DD2395)&lt;/i&gt;&#xA;                            &lt;/div&gt;&#xA;                            &lt;div class=&#34;flush-right d-none d-lg-table-cell fw-light small&#34;&gt;&#xA;                                &lt;span class=&#34;fw-light text-muted teaching-years&#34;&gt;2021 - 2024&lt;/span&gt;&#xA;                            &lt;/div&gt;&#xA;                        &lt;/div&gt;&#xA;                    &lt;/div&gt;&#xA;                    &#xA;                &lt;/div&gt;&#xA;                &#xA;                &lt;div class=&#34;row teaching-item&#34;&gt;&#xA;                    &lt;div class=&#34;col&#34;&gt;&#xA;                        &lt;div class=&#34;d-flex justify-content-between&#34;&gt;&#xA;                            &lt;div class=&#34;flush-left&#34;&gt;&#xA;                                &lt;a href=&#34;https://www.kth.se/student/kurser/kurs/DD1310/?l=en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Programming Techniques&lt;/a&gt; &#xA;                                &lt;i class=&#34;d-none d-sm-inline text-muted fw-light small&#34;&gt;(DD1310)&lt;/i&gt;&#xA;                            &lt;/div&gt;&#xA;                            &lt;div class=&#34;flush-right d-none d-lg-table-cell fw-light small&#34;&gt;&#xA;                                &lt;span class=&#34;fw-light text-muted teaching-years&#34;&gt;2020 - 2022&lt;/span&gt;&#xA;                            &lt;/div&gt;&#xA;                        &lt;/div&gt;&#xA;                    &lt;/div&gt;&#xA;                    &#xA;                &lt;/div&gt;&#xA;                &#xA;                &lt;div class=&#34;row teaching-item&#34;&gt;&#xA;                    &lt;div class=&#34;col&#34;&gt;&#xA;                        &lt;div class=&#34;d-flex justify-content-between&#34;&gt;&#xA;                            &lt;div class=&#34;flush-left&#34;&gt;&#xA;                                &lt;a href=&#34;https://www.kth.se/student/kurser/kurs/DD1386/?l=en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Internet Programming&lt;/a&gt; &#xA;                                &lt;i class=&#34;d-none d-sm-inline text-muted fw-light small&#34;&gt;(DD1386)&lt;/i&gt;&#xA;                            &lt;/div&gt;&#xA;                            &lt;div class=&#34;flush-right d-none d-lg-table-cell fw-light small&#34;&gt;&#xA;                                &lt;span class=&#34;fw-light text-muted teaching-years&#34;&gt;2021, 2024&lt;/span&gt;&#xA;                            &lt;/div&gt;&#xA;                        &lt;/div&gt;&#xA;                    &lt;/div&gt;&#xA;                    &#xA;                &lt;/div&gt;&#xA;                &#xA;                &lt;div class=&#34;row teaching-item&#34;&gt;&#xA;                    &lt;div class=&#34;col&#34;&gt;&#xA;                        &lt;div class=&#34;d-flex justify-content-between&#34;&gt;&#xA;                            &lt;div class=&#34;flush-left&#34;&gt;&#xA;                                &lt;a href=&#34;https://www.kth.se/student/kurser/kurs/DD1385/?l=en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Software Engineering&lt;/a&gt; &#xA;                                &lt;i class=&#34;d-none d-sm-inline text-muted fw-light small&#34;&gt;(DD1385)&lt;/i&gt;&#xA;                            &lt;/div&gt;&#xA;                            &lt;div class=&#34;flush-right d-none d-lg-table-cell fw-light small&#34;&gt;&#xA;                                &lt;span class=&#34;fw-light text-muted teaching-years&#34;&gt;2020 - 2024&lt;/span&gt;&#xA;                            &lt;/div&gt;&#xA;                        &lt;/div&gt;&#xA;                    &lt;/div&gt;&#xA;                    &#xA;                &lt;/div&gt;&#xA;                &#xA;                &lt;div class=&#34;row teaching-item&#34;&gt;&#xA;                    &lt;div class=&#34;col&#34;&gt;&#xA;                        &lt;div class=&#34;d-flex justify-content-between&#34;&gt;&#xA;                            &lt;div class=&#34;flush-left&#34;&gt;&#xA;                                &lt;a href=&#34;https://www.kth.se/student/kurser/kurs/DD2520/?l=en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Applied Cryptography&lt;/a&gt; &#xA;                                &lt;i class=&#34;d-none d-sm-inline text-muted fw-light small&#34;&gt;(DD2520)&lt;/i&gt;&#xA;                            &lt;/div&gt;&#xA;                            &lt;div class=&#34;flush-right d-none d-lg-table-cell fw-light small&#34;&gt;&#xA;                                &lt;span class=&#34;fw-light text-muted teaching-years&#34;&gt;2022, 2023&lt;/span&gt;&#xA;                            &lt;/div&gt;&#xA;                        &lt;/div&gt;&#xA;                    &lt;/div&gt;&#xA;                    &#xA;                &lt;/div&gt;&#xA;                &#xA;                &lt;div class=&#34;row teaching-item&#34;&gt;&#xA;                    &lt;div class=&#34;col&#34;&gt;&#xA;                        &lt;div class=&#34;d-flex justify-content-between&#34;&gt;&#xA;                            &lt;div class=&#34;flush-left&#34;&gt;&#xA;                                &lt;a href=&#34;https://www.kth.se/student/kurser/kurs/DD2460/?l=en&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Software Safety and Security&lt;/a&gt; &#xA;                                &lt;i class=&#34;d-none d-sm-inline text-muted fw-light small&#34;&gt;(DD2460)&lt;/i&gt;&#xA;                            &lt;/div&gt;&#xA;                            &lt;div class=&#34;flush-right d-none d-lg-table-cell fw-light small&#34;&gt;&#xA;                                &lt;span class=&#34;fw-light text-muted teaching-years&#34;&gt;2021&lt;/span&gt;&#xA;                            &lt;/div&gt;&#xA;                        &lt;/div&gt;&#xA;                    &lt;/div&gt;&#xA;                    &#xA;                &lt;/div&gt;&#xA;                &#xA;          &lt;/section&gt;&#xA;        &#xA;    &lt;/p&gt;</description>
     </item>
   </channel>

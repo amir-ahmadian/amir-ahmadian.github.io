@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Amir M. Ahmadian&#39;s Personal Webpage</title>
-    <link>https://example.com/tags/</link>
+    <link>https://amir-ahmadian.github.io/tags/</link>
     <description>Recent content in Tags on Amir M. Ahmadian&#39;s Personal Webpage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</managingEditor>
     <webMaster>amir.ahmadian@chalmers.se (Amir M. Ahmadian)</webMaster>
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://amir-ahmadian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

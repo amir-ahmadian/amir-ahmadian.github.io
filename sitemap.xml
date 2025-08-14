@@ -2,56 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://amir-ahmadian.github.io/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/news/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/news/paper_acceptance_csf25/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/news/phd_defence/</loc>
-    <lastmod>2025-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/news/paper_acceptance_csf24/</loc>
-    <lastmod>2023-12-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/news/best_paper_eurosp22/</loc>
-    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/news/paper_acceptance_eurosp22/</loc>
-    <lastmod>2022-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/news/paper_acceptance_secdev21/</loc>
-    <lastmod>2021-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/news/paper_acceptance_csf21/</loc>
-    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/projects/</loc>
+    <loc>https://amir-ahmadian.github.io/projects/</loc>
     <lastmod>1970-01-01T01:33:45+01:00</lastmod>
   </url><url>
-    <loc>https://example.com/projects/tap4s/</loc>
+    <loc>https://amir-ahmadian.github.io/projects/tap4s/</loc>
     <lastmod>1970-01-01T01:33:45+01:00</lastmod>
   </url><url>
-    <loc>https://example.com/projects/divert/</loc>
+    <loc>https://amir-ahmadian.github.io/projects/divert/</loc>
     <lastmod>1970-01-01T01:33:43+01:00</lastmod>
   </url><url>
-    <loc>https://example.com/projects/dyncover/</loc>
+    <loc>https://amir-ahmadian.github.io/projects/dyncover/</loc>
     <lastmod>1970-01-01T01:33:42+01:00</lastmod>
   </url><url>
-    <loc>https://example.com/projects/je/</loc>
+    <loc>https://amir-ahmadian.github.io/projects/je/</loc>
     <lastmod>1970-01-01T01:33:40+01:00</lastmod>
   </url><url>
-    <loc>https://example.com/activities/</loc>
+    <loc>https://amir-ahmadian.github.io/activities/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://amir-ahmadian.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.com/publications/</loc>
+    <loc>https://amir-ahmadian.github.io/publications/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://amir-ahmadian.github.io/tags/</loc>
   </url><url>
-    <loc>https://example.com/teaching/</loc>
+    <loc>https://amir-ahmadian.github.io/teaching/</loc>
   </url>
 </urlset>
