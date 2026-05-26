@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://amir-ahmadian.github.io/</loc>
     <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/activities/</loc>
+    <loc>https://amir-ahmadian.github.io/activities/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://amir-ahmadian.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://amir-ahmadian.github.io/publications/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://amir-ahmadian.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://amir-ahmadian.github.io/teaching/</loc>
   </url>
 </urlset>
